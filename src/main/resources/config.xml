@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server port="4444">
+    <rooms>
+        <room>
+            <size>5</size>
+            <dealer>Mike</dealer>
+            <min_bet>10</min_bet>
+        </room>
+        <room>
+            <size>3</size>
+            <dealer>Kate</dealer>
+            <min_bet>100</min_bet>
+        </room>
+        <room>
+            <size>1</size>
+            <dealer>Mike</dealer>
+            <min_bet>50</min_bet>
+        </room>
+    </rooms>
+</server>

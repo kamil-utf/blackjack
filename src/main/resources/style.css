@@ -1,0 +1,10 @@
+#table {
+    -fx-background-image: url("images/background.jpg");
+    -fx-background-repeat: repeat;
+    -fx-background-position: center center;
+}
+
+#status-items {
+    -fx-background-color: black;
+    -fx-opacity: 0.75;
+}
